@@ -8,7 +8,7 @@ Blacklisted items are not accounted for. Please refer to other community resourc
 
 If there is a newer version of the executable, that version likely has additional clothes or stages added. Please download that version if you want to access new clothes and new stages.
 
-Please contact _________ on Discord if you find any bugs, questions, or concerns. 
+Please contact _________ on Discord for any bugs, questions, or concerns. 
 
 # macOS
 
