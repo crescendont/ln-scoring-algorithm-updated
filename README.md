@@ -2,7 +2,7 @@
 
 A program to find the optimal outfit + top 20 scoring items for association, chapter, arena, and custom stages in Love Nikki. This program requires your clothes_date file to run. Please refer to any of the guides out there for extracting this file; Nikki's Info also accepts it for wardrobe information, so many guides exist. 
 
-Your clothes_date file MUST be renamed to **myclothesdate.txt** and it MUST be in the same folder as the executable.
+Your clothes_date file MUST be renamed to **clothes_date.txt** and it MUST be in the same folder as the executable.
 
 Blacklisted items are not accounted for. Please refer to other community resources to identify and avoid blacklisted items. Similarly, chapter requirements are not considered.
 
