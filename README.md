@@ -107,11 +107,11 @@ Fill in the blank spaces with the volume number, chapter number, and stage numbe
 
 For example:
 
-You want to play V1:1-1 Sport Girl Aron (1). You will type in MV1C1S1.
+You want to play V1:1-1 Sport Girl Aron (1). You will type in PV1C1S1.
 
-You want to play V1:7-S2 Toto, Girl in Love (6). You will type in MV1C7SS1. 
+You want to play V1:7-S2 Toto, Girl in Love (6). You will type in PV1C7SS1. 
 
-You want to play V3:2-7 Reunion. You will type in MV3C2S7. 
+You want to play V3:2-7 Reunion. You will type in PV3C2S7. 
 
 
 # FAQs
