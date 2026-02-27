@@ -79,7 +79,7 @@ You want to play 6-3 New manga inspiration. You will type in GA6S3.
 
 You want to play 20-7 The Sound of Stars. You will type in GA20S7.
 
-###C ustom Stages
+### <ins> Custom Stages <ins>
 
 When the program prompts you to "Enter stage code:", type in C. 
 
