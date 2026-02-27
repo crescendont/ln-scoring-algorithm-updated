@@ -35,6 +35,8 @@ The steps below assume you are keeping the executable in your Downloads folder. 
       - Double click on the LNScoringAlgo file
       - Type ./LNScoringAlgo into Terminal.
   
+As long as you don't move anything, you should be able to keep launching LNScoringAlgo without any issues. You will have to go through steps 1 and 2 again every time you re-download the executable.
+  
 ### Running the exectuable on later launches:
 
 It is still assumed that you are keeping the executable in your Downloads folder.
@@ -52,8 +54,6 @@ It is still assumed that you are keeping the executable in your Downloads folder
   2. Open the Downloads folder
   3. Double click on the LNScoringAlgo file
 
-
-As long as you don't move anything, you should be able to keep launching LNScoringAlgo without any issues. (If you want to launch it through You will have to go through steps 1 and 2 again every time you re-download the executable.
 
 # Usage
 
@@ -87,7 +87,7 @@ Follow the prompts given.
 
 ###  <ins> Maiden Stages <ins> 
 
-When the program prmpts you to "Enter stage code:", type in MV_C_S_.
+When the program prompts you to "Enter stage code:", type in MV_C_S_.
 
 Fill in the blank spaces with the volume number, chapter number, and stage number for the stage you want to play. For side stages, add a S in front of the stage number.
 
@@ -101,7 +101,7 @@ You want to play V3:2-7 Reunion. You will type in MV3C2S7.
 
 ###  <ins> Princess Stages <ins> 
 
-When the program prmpts you to "Enter stage code:", type in PV_C_S_.
+When the program prompts you to "Enter stage code:", type in PV_C_S_.
 
 Fill in the blank spaces with the volume number, chapter number, and stage number for the stage you want to play. For side stages, add a S in front of the stage number.
 
