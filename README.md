@@ -143,3 +143,12 @@ It pretty much won't.
 
 Yes. They're only there to store what your optimal outfit + the top 20 scoring items for a stage are, so you can see them even after you close the program.
 
+# Acknowledgements
+
+crescendont - main contributor, maintainer
+
+danc12321 - additional contributions, testing, maintainer
+
+______ - testing
+
+Many thanks to Nikki's Info for being a long-standing community resource, as well as a sanity check for our program.
