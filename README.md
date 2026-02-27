@@ -30,7 +30,7 @@ The steps below assume you are keeping the executable in your Downloads folder. 
 3. Open Finder.
 4. Check that...
       - Your clothes_date file is in the Downloads folder.
-      - Your clothes_date file has been renamed to myclothesdate.txt
+      - Your clothes_date file has been renamed to clothes_date.txt
 5. Run the executable! There are two ways to do so:
       - Double click on the LNScoringAlgo file
       - Type ./LNScoringAlgo into Terminal.
