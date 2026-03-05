@@ -16,9 +16,10 @@ Do not share or repost without attribution.
 
 ### Requirements: 
 
-- macOS Tahoe 26.1 or above (You can try older versions, I can't guarantee it'll work.)
+- macOS Tahoe 26.1 or above (You can try older versions, I can't guarantee it'll work. Some users have found success.)
 - Your clothes_date file
 
+[Click here to download.](https://github.com/crescendont/ln-scoring-algorithm-updated/raw/refs/heads/main/LNScoringAlgo)
 
 ### Running the executable on first launch:
 
@@ -144,6 +145,10 @@ It pretty much won't.
 **Can I delete those .txt files it keeps spitting out?**
 
 Yes. They're only there to store what your optimal outfit + the top 20 scoring items for a stage are, so you can see them even after you close the program.
+
+**When will the Windows version release?**
+
+At some point in the near future.
 
 # Acknowledgements
 
