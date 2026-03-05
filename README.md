@@ -10,6 +10,8 @@ If there is a newer version of the executable, that version likely has additiona
 
 Please contact @crescendont on Discord for any bugs, questions, or concerns. 
 
+Do not share or repost without attribution.  
+
 # macOS
 
 ### Requirements: 
