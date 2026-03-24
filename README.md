@@ -17,7 +17,7 @@ Do not share or repost without attribution.
 ### Requirements: 
 
 - macOS Tahoe 26.1 or above (You can try older versions, I can't guarantee it'll work. Some users have found success.)
-- Your clothes_date file
+- Your clothes_date file, renamed to clothes_date.txt
 
 [Click here to download.](https://github.com/crescendont/ln-scoring-algorithm-updated/raw/refs/heads/main/LNScoringAlgo)
 
@@ -57,6 +57,12 @@ It is still assumed that you are keeping the executable in your Downloads folder
   2. Open the Downloads folder
   3. Double click on the LNScoringAlgo file
 
+# Windows
+
+- Windows 11 (may work with earlier versions; not tested yet)
+- Your clothes_date file, renamed to clothes_date.txt
+
+[Click here to download.](https://github.com/crescendont/ln-scoring-algorithm-updated/raw/refs/heads/main/LNScoringAlgo.exe)
 
 # Usage
 
