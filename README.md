@@ -64,6 +64,14 @@ It is still assumed that you are keeping the executable in your Downloads folder
 
 [Click here to download.](https://github.com/crescendont/ln-scoring-algorithm-updated/raw/refs/heads/main/LNScoringAlgo.exe)
 
+### Running the executable:
+1. Check that...
+      - Your clothes_date file is in the Downloads folder.
+      - LNScoringAlgo.exe is in the Downloads folder.
+      - Your clothes_date file has been renamed to clothes_date.txt
+2. Double click on LNScoringAlgo.exe. Your antivirus may give you a warning -- this program is not a malware, so you can safely ignore it.
+   
+
 # Usage
 
 So. How the hell do you use this thing? Well, it depends on the type of stage you want an outfit for!
@@ -131,7 +139,7 @@ Websites cost money to run. I don't want to pay that money. Also, I don't know h
 
 **Is this a virus?**
 
-No. I don't know how to code that either. However, you should never give any random file off the internet the permissions this needs in order to run on Mac -- *if* it was a virus, you'd be screwed. It needs these permissions because I can't sign the executable , and from what I gather, you need to purchase a membership to the Apple Developer Program in order to get a signing certificate. 
+No. I don't know how to code that either. However, you should never give any random file off the internet the permissions this needs in order to run on Mac -- *if* it was a virus, you'd be screwed. It needs these permissions because I can't sign the executable, and from what I gather, you need to purchase a membership to the Apple Developer Program in order to get a signing certificate. Similarly, don't ignore your antivirus for random exe files you find online. That's an excellent way to get a virus.
 
 This file was written in Python, then turned into an executable for distribution and ease of use using PyInstaller. As far as I know, neither contain malware. 
 
@@ -152,9 +160,6 @@ It pretty much won't.
 
 Yes. They're only there to store what your optimal outfit + the top 20 scoring items for a stage are, so you can see them even after you close the program.
 
-**When will the Windows version release?**
-
-At some point in the near future.
 
 # Acknowledgements
 
