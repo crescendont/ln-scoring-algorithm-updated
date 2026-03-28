@@ -8,7 +8,7 @@ If all you want is the top 20 scores, please download the newplayer_clothes_date
 
 Blacklisted items are not accounted for. Please refer to other community resources to identify and avoid blacklisted items. Similarly, chapter requirements are not considered.
 
-If there is a newer version of the executable, that version likely has additional clothes or stages added. Please download that version if you want to access new clothes and new stages.
+If there is a newer version of the executable, that version likely has bugfixes or additional clothes/stages added. Please download that version if you want to access new clothes and new stages.
 
 Please contact @crescendont on Discord for any bugs, questions, or concerns. 
 
