@@ -4,6 +4,8 @@ A program to find the optimal outfit + top 20 scoring items for association, cha
 
 Your clothes_date file MUST be renamed to **clothes_date.txt** and it MUST be in the same folder as the executable.
 
+If all you want is the top 20 scores, please download the newplayer_clothes_date [here](https://github.com/crescendont/ln-scoring-algorithm-updated/raw/refs/heads/main/newplayer_clothes_date), rename it to clothes_date.txt, and use it as your input.
+
 Blacklisted items are not accounted for. Please refer to other community resources to identify and avoid blacklisted items. Similarly, chapter requirements are not considered.
 
 If there is a newer version of the executable, that version likely has additional clothes or stages added. Please download that version if you want to access new clothes and new stages.
