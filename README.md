@@ -132,6 +132,18 @@ You want to play V1:7-S2 Toto, Girl in Love (6). You will type in PV1C7SS2.
 
 You want to play V3:2-7 Reunion. You will type in PV3C2S7. 
 
+### <ins> Tiered Stages <ins>
+
+Certain story stages, like V1:9-6, V1:9-9, and V1:10-9 have multiple themes contained within one stage. For the first theme of a stage, enter in the stage code like usual. For the second and third themes, add on T2/T3.
+
+For example:
+
+You want to play the first theme, a swordswoman outfit, of V1:9-9 One-piece Dress on Maiden difficulty. You will type in MV1C9S9.
+
+You want to play the second theme, a gorgeous and lively one-piece dress, of V1:9-9 One-piece Dress on Maiden difficulty. You will type in MV1C9S9T2.
+
+You want to play the third theme, elegant Pigeon lady style, of V1:9-9 One-piece Dress on Maiden difficulty. You will type in MV1C9S9T3.
+
 
 # FAQs
 
