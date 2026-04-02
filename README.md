@@ -4,7 +4,7 @@ A program to find the optimal outfit + top 20 scoring items for association, cha
 
 Your clothes_date file MUST be renamed to **clothes_date.txt** and it MUST be in the same folder as the executable. 
 
-DO NOT MODIFY YOUR clothes_date FILE BEYOND RENAMING IT.
+DO NOT MODIFY YOUR clothes_date FILE BEYOND RENAMING IT. You do not need to include today's date within the name of clothes_date.txt. "date" refers to the *word* date.
 
 If all you want is the top 20 scores, please download the newplayer_clothes_date [here](https://github.com/crescendont/ln-scoring-algorithm-updated/raw/refs/heads/main/newplayer_clothes_date), rename it to clothes_date.txt, and use it as your input.
 
@@ -75,7 +75,7 @@ It is still assumed that you are keeping the executable in your Downloads folder
       - LNScoringAlgo.exe is in the Downloads folder.
       - Your clothes_date file has been renamed to clothes_date.txt
 2. Double click on LNScoringAlgo.exe. Your antivirus may give you a warning -- this program is not a malware, so you can safely ignore it.
-   
+
 
 # Usage
 
@@ -152,9 +152,9 @@ You want to play the third theme, elegant Pigeon lady style, of V1:9-9 One-piece
 
 **Will an Android/Linux/web version exist in the future?**
 
-Android - No, absolutely not.
-Linux - If there is enough demand.
-Website - Currently, no.
+- Android - No, absolutely not.
+- Linux - If there is enough demand.
+- Website - Currently, no.
 
 **Why isn't this a website?**
 
