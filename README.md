@@ -2,7 +2,9 @@
 
 A program to find the optimal outfit + top 20 scoring items for association, chapter, arena, and custom stages in Love Nikki. This program requires your clothes_date file to run. Please refer to any of the guides out there for extracting this file; Nikki's Info also accepts it for wardrobe information, so many guides exist. 
 
-Your clothes_date file MUST be renamed to **clothes_date.txt** and it MUST be in the same folder as the executable.
+Your clothes_date file MUST be renamed to **clothes_date.txt** and it MUST be in the same folder as the executable. 
+
+DO NOT MODIFY YOUR clothes_date FILE BEYOND RENAMING IT.
 
 If all you want is the top 20 scores, please download the newplayer_clothes_date [here](https://github.com/crescendont/ln-scoring-algorithm-updated/raw/refs/heads/main/newplayer_clothes_date), rename it to clothes_date.txt, and use it as your input.
 
@@ -19,6 +21,7 @@ Do not share or repost without attribution.
 ### Requirements: 
 
 - macOS Tahoe 26.1 or above (You can try older versions, I can't guarantee it'll work. Some users have found success.)
+- Apple Silicon Mac. Intel Macs are unsupported.
 - Your clothes_date file, renamed to clothes_date.txt
 
 [Click here to download.](https://github.com/crescendont/ln-scoring-algorithm-updated/raw/refs/heads/main/LNScoringAlgo)
@@ -146,6 +149,12 @@ You want to play the third theme, elegant Pigeon lady style, of V1:9-9 One-piece
 
 
 # FAQs
+
+**Will an Android/Linux/web version exist in the future?**
+
+Android - No, absolutely not.
+Linux - If there is enough demand.
+Website - Currently, no.
 
 **Why isn't this a website?**
 
