@@ -231,7 +231,7 @@ It pretty much won't.
 
 Yes. They're only there to store what your optimal outfit + the top 20 scoring items for a stage are, so you can see them even after you close the program.
 
-**Why don't you work with other people to make a better version of your projects?**
+**Why don't you work with other people to make a better version of your Love Nikki tools?**
 
 Remember how much group projects sucked in school? I do this for fun.
 
