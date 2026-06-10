@@ -1,10 +1,12 @@
 # ln-scoring-algorithm-updated
 
-A program to find the optimal outfit + top 20 scoring items for association, chapter, arena, and custom stages in Love Nikki. This program requires your clothes_date file to run. Please refer to any of the guides out there for extracting this file; Nikki's Info also accepts it for wardrobe information, so many guides exist. 
+A program to find the optimal outfit + top 20 scoring items for association, chapter, arena, and custom stages in Love Nikki. This program requires your clothes_date file or a manual wardrobe input to give customized recoomedations. Please refer to any of the guides out there for extracting clothes_date; Nikki's Info also accepts it for wardrobe information, so many guides exist. 
 
 Your clothes_date file MUST be renamed to **clothes_date.txt** and it MUST be in the same folder as the executable. 
 
 DO NOT MODIFY YOUR clothes_date FILE BEYOND RENAMING IT. You do not need to include today's date within the name of clothes_date.txt. "date" refers to the *word* date.
+
+To use manual wardrobe input, create a textfile named $$clothes_typed.txt$$. How to input your wardrobe is specified later in this guide.
 
 If all you want is the top 20 scores, please download the newplayer_clothes_date [here](https://github.com/crescendont/ln-scoring-algorithm-updated/raw/refs/heads/main/newplayer_clothes_date), rename it to clothes_date.txt, and use it as your input.
 
@@ -75,6 +77,50 @@ It is still assumed that you are keeping the executable in your Downloads folder
       - LNScoringAlgo.exe is in the Downloads folder.
       - Your clothes_date file has been renamed to clothes_date.txt
 2. Double click on LNScoringAlgo.exe. Your antivirus may give you a warning -- this program is not a malware, so you can safely ignore it.
+
+# Manual Wardrobe Input
+
+You must name your manually inputted wardrobe file **clothes_typed.txt**. NOTHING ELSE WILL WORK. clothes_typed.txt should be a text file.
+
+Every item has a corresponding code, in the form of a letter and the item's numerical ID. The letter coresponds to the item's category. However, a few items need special codes to be recognized correctly. These items are Moonlight Serenade, Vanity Fair, and Maple Viewing. The codes are listed later, in their own section.
+
+Type this code into **clothes_typed.txt$$, then press enter. PRESS ENTER ONLY ONCE AFTER YOU INPUT AN ITEM CODE. Every item code needs to be on a different line. 
+
+### <ins> Letters and their Corresponding Wardrobe Category <ins>
+
+- H: Hair
+- D: Dress
+- C: Coat
+- T: Top
+- B: Bottom
+- O: Hosiery (This includes leglets!)
+- S: Shoes
+- A: Accessories (This includes hair ornaments, veils, hairpins, ears, earrings, scarves, necklaces, right hand ornaments, left hand ornaments, gloves, right handhelds, left handhelds, both handhelds, waist items, face items, brooches, tattoos, wings, tails, foreground items, background items, head ornaments, ground items, and skin. All the accessories are lumped into one category.
+- M: Makeup
+- R: Dreamweaver
+
+
+### <ins> How can I find my item's ID? <ins>
+
+Go to Wardrobe and search the item's name. Next to the item's name, there's going to be smaller text that says No.____. That number is the item's ID. 
+
+
+### <ins> Examples <ins> 
+
+I want to input the hair Nikki's Pinky. Hairs use H has their code letter. Nikki's Pinky has an ID number of 1. I will type H1 into clothes_typed.txt.
+
+I want to input the earrings Refreshing Blueberry. Refreshing Blueberry is an earring, so it is also an accessory. Accessories use A as their code letter. Refreshing Blueberry has an ID number of 15153. I will type A15153 into clothes_typed.txt.
+
+I want to input the hosiery Evening Snow. Hosieries use O as their code letter. Evening Snow has an ID number of 1. I will type O1 into clothes_typed.txt.
+
+An example clothes_typed.txt file is attached to this repository. 
+
+### <ins> Special Codes <ins> ###
+
+C991327 - Moonlight Serenade
+T99961 - Vanity Fair
+S993221 - Maple Viewing
+
 
 
 # Usage
