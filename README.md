@@ -1,6 +1,6 @@
 # ln-scoring-algorithm-updated
 
-A program to find the optimal outfit + top 20 scoring items for association, chapter, arena, and custom stages in Love Nikki. This program can use your clothes_date file for automatic wardrobe upload. You may also input your wardrobe by hand. Please refer to any of the guides out there for extracting clothes_date; Nikki's Info also accepts it for wardrobe information, so many guides exist. 
+A program to find the optimal outfit + top 20 scoring items for association, chapter, arena, and custom stages in Love Nikki. This program can use your clothes_date file for automatic wardrobe input. You may also input your wardrobe by hand. You do not need to input a wardrobe. Please refer to any of the guides out there for extracting clothes_date; Nikki's Info also accepts it for wardrobe information, so many guides exist. 
 
 Your clothes_date file MUST be renamed to **clothes_date.txt** and it MUST be in the same folder as the executable. 
 
