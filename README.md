@@ -1,14 +1,14 @@
 # ln-scoring-algorithm-updated
 
-A program to find the optimal outfit + top 20 scoring items for association, chapter, arena, and custom stages in Love Nikki. This program requires your clothes_date file or a manual wardrobe input to give customized recoomedations. Please refer to any of the guides out there for extracting clothes_date; Nikki's Info also accepts it for wardrobe information, so many guides exist. 
+A program to find the optimal outfit + top 20 scoring items for association, chapter, arena, and custom stages in Love Nikki. This program can use your clothes_date file for automatic wardrobe upload. You may also input your wardrobe by hand. Please refer to any of the guides out there for extracting clothes_date; Nikki's Info also accepts it for wardrobe information, so many guides exist. 
 
 Your clothes_date file MUST be renamed to **clothes_date.txt** and it MUST be in the same folder as the executable. 
 
 DO NOT MODIFY YOUR clothes_date FILE BEYOND RENAMING IT. You do not need to include today's date within the name of clothes_date.txt. "date" refers to the *word* date.
 
-To use manual wardrobe input, create a textfile named $$clothes_typed.txt$$. How to input your wardrobe is specified later in this guide.
+To use manual wardrobe input, create a textfile named **clothes_typed.txt**. This MUST be in the same folder as the executable. How to input your wardrobe is specified later in this guide.
 
-If all you want is the top 20 scores, please download the newplayer_clothes_date [here](https://github.com/crescendont/ln-scoring-algorithm-updated/raw/refs/heads/main/newplayer_clothes_date), rename it to clothes_date.txt, and use it as your input.
+If all you want is the top 20 scores, you do not need clothes_date.txt or clothes_typed.txt. 
 
 Blacklisted items are not accounted for. Please refer to other community resources to identify and avoid blacklisted items. Similarly, chapter requirements are not considered.
 
@@ -118,7 +118,9 @@ An example clothes_typed.txt file is attached to this repository.
 ### <ins> Special Codes <ins> ###
 
 C991327 - Moonlight Serenade
+
 T99961 - Vanity Fair
+
 S993221 - Maple Viewing
 
 
